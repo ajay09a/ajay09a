@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Ajay](https://github.com/ajay09a/ajay09a/assets/92861422/7937058c-34d3-47b7-86d7-7adb66649d46)
+![Ajay (2)](https://github.com/ajay09a/ajay09a/assets/92861422/301dafe3-b078-40e5-aa97-eeb327834429)
 
 
 Seeking role for Software Engineer. I've good knowledge of DSA, Java, JavaScript, React.js, Node.js, MySQL, MongoDB etc.
