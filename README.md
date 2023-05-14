@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ajay09a/ajay09a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Ajay](https://github.com/ajay09a/ajay09a/assets/92861422/7937058c-34d3-47b7-86d7-7adb66649d46)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seeking role for Software Engineer. I've good knowledge of DSA, Java, JavaScript, React.js, Node.js, MySQL, MongoDB etc.
+
+- 💬 Ask me about anything in Data Structure & Algo
+- 📫 How to reach me: connect me on linkedIn https://www.linkedin.com/in/ajay-kalonia/
+
+
+- I'm always tring to grow and learn something new.
+
+### Whar I'm focusing on 👾
+I’m currently looking for job while practicing DSA and creating web project. Take a look at my project by just scrolling down.
