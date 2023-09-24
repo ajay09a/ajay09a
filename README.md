@@ -11,5 +11,5 @@ Seeking role for Software Engineer. I've good knowledge of DSA, Java, JavaScript
 
 - I'm always tring to grow and learn something new.
 
-### Whar I'm focusing on 👾
+### What I'm focusing on 👾
 I’m currently looking for job while practicing DSA and creating web project. Take a look at my project by just scrolling down.
